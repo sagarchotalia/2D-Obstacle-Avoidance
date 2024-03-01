@@ -1,6 +1,5 @@
 # Obstacle Avoidance
-
-This is the initial set of tasks for Miko.ai's Robotics Engineer role.
+This mini-project implements the A* path-finding algorithm on a 2D grid array.
 
 ## Assumptions
 
