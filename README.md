@@ -98,3 +98,8 @@ Grid with Path:
  0 0 0 0 0 0 R R R R 
  ```
 
+## To Be Done
+[ ] Add provision of selecting waypoints in the grid such that they don't lie in an obstacle, and aid in exploring the entire grid
+[ ] Improve the way grid sizes and obstacle positions are read
+[ ] Optimization of the algorithm
+[ ] Division into multiple files for readability
